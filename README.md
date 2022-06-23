@@ -25,4 +25,8 @@
  
   ![Fig 3](https://github.com/aisthebest/docker-anomaly-detection/blob/main/cpu_detect/results.jpg)
 
+
+## 作者
+    王玉龙 中国工程物理研究院计算机应用研究所 
+    email：wangyulong@caep.cn
         
