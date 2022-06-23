@@ -17,12 +17,12 @@
   ![Fig 1](https://github.com/aisthebest/docker-anomaly-detection/blob/main/cpu_detect/test.jpg)
 
         
-  运行完毕后，会生成result文件及detect_result文件：
+        运行完毕后，会生成result文件及detect_result文件：
   
-  
-  ![Fig 2](https://github.com/aisthebest/docker-anomaly-detection/blob/main/cpu_detect/elf-gray.jpg）
+  ![Fig 2](https://github.com/aisthebest/docker-anomaly-detection/blob/main/cpu_detect/elf-gray.jpg)
         
- result 文件为提取的elf生成的灰度图：
-  
- ![Fig 3]( https://github.com/aisthebest/docker-anomaly-detection/blob/main/cpu_detect/results.jpg）
+      result 文件为提取的elf生成的灰度图：
+ 
+  ![Fig 3](https://github.com/aisthebest/docker-anomaly-detection/blob/main/cpu_detect/results.jpg)
+
         
